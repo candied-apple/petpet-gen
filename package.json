@@ -1,0 +1,13 @@
+{
+  "name": "petpet-gen",
+  "version": "1.0.0",
+  "description": "A module to generate petpet GIFs with avatars.",
+  "main": "src/index.js",
+  "dependencies": {
+    "canvas": "^2.8.0",
+    "gifencoder": "^2.0.1",
+    "lodash": "^4.17.21"
+  },
+  "keywords": [],
+  "author": "candied-apple"
+}
